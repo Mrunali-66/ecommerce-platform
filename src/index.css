@@ -2,8 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Optional custom styles */
+/* Optional: your custom global styles can go below */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f9fafb;
 }
